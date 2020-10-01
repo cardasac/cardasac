@@ -10,3 +10,5 @@ Here are things about me:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexandru-constantin-cardas-b40395150/)
 - 😄 Pronouns: I am a man so use your [judgement](https://www.youtube.com/watch?v=WtftZPL-k7Y) 
 - ⚡ Fun fact: Bit of a fighter, I do a lot of martial arts
+
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexandruCardas)](https://github.com/anuraghazra/github-readme-stats)

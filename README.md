@@ -32,10 +32,10 @@ Here are things about me:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 &nbsp;
+&nbsp;
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexandruCardas&show_icons=true&theme=tokyonight)
 
 &nbsp;
-
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=AlexandruCardas&show_icons=true&theme=tokyonight)

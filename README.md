@@ -35,8 +35,8 @@ Here are things about me:
 
 &nbsp;
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexandruCardas&show_icons=true&theme=tokyonight)
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=AlexandruCardas&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs" />
 
 &nbsp;
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=AlexandruCardas&show_icons=true&theme=tokyonight)
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruCardas&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact" />

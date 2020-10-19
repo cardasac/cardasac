@@ -36,4 +36,13 @@ Here are things about me:
 
 ---
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexandruCardas)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
+
+
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexandruCardas&show_icons=true&theme=tokyonight)
+
+
+&nbsp;
+
+
+![Alex's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=AlexandruCardas&show_icons=true&theme=tokyonight)

@@ -1,12 +1,12 @@
-### Hi there, I'm Alex 👋
+# Hi there, I'm Alex
 
 Here are things about me:
 
-- 🔭 I'm currently working on Data Processing scripts
-- 🌱 I'm currently learning as much as I can from the computer science field (including hardware)
-- 👯 I'm looking to collaborate on an Open Source Exercises Showcase
-- 💬 Ask me about any topic in computer science
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexandru-constantin-cardas-b40395150/)
+- I'm currently working on Data Processing scripts
+- I'm currently learning as much as I can from the computer science field (including hardware)
+- I'm looking to collaborate on an Open Source Exercises Showcase
+- Ask me about any topic in computer science
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/alexandru-constantin-cardas-b40395150/)
 
 
 ### Languages and Tools:

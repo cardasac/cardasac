@@ -1,29 +1,57 @@
-# Hi there, I'm Alex
+# Alexandru Constantin Cardas
 
-Here are things about me:
+## DevOps Engineer | Full-Stack Developer
 
-- I'm currently working on Data Processing scripts
-- I'm currently learning as much as I can from the computer science field (including hardware)
-- I'm looking to collaborate on an Open Source Exercises Showcase
-- Ask me about any topic in computer science
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/alexandru-constantin-cardas-b40395150/)
+Welcome to my GitHub profile. I'm a passionate DevOps engineer with extensive full-stack development experience, dedicated to bridging the gap between development and operations through automation, scalable infrastructure, and efficient deployment practices.
 
+## Current Focus
 
-### Languages and Tools:
+**Data Processing & Infrastructure**
+- Developing robust data processing scripts and pipelines
+- Exploring advanced computer science concepts, including hardware-software interactions
+- Building scalable, cloud-native solutions
 
-<img align="left" alt="HashiCorp" width="26px" src="https://www.datocms-assets.com/2885/1533837661-hashicorpiconwhite.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+**Open Source Collaboration**
+- Working on an Open Source Exercises Showcase project
+- Contributing to community-driven development initiatives
+- Sharing knowledge and best practices
+
+## Technical Expertise
+
+### DevOps & Infrastructure
+- **Infrastructure as Code**: HashiCorp Terraform, Ansible
+- **Container Orchestration**: Docker, Kubernetes
+- **Cloud Platforms**: AWS, Azure, GCP
+- **CI/CD**: Jenkins, GitLab CI, GitHub Actions
+- **Monitoring**: Prometheus, Grafana, ELK Stack
+
+### Development Stack
+- **Frontend**: HTML5, CSS3, Sass, JavaScript, React
+- **Backend**: Node.js, Deno, GraphQL
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Static Site Generators**: Gatsby, Astro
+- **Version Control**: Git, GitHub
+
+### Automation & Scripting
+- **Languages**: Python, Bash, JavaScript, TypeScript
+- **Configuration Management**: Ansible, Chef
+- **Monitoring & Alerting**: Custom scripts, API integrations
+
+## Professional Approach
+
+I believe in creating reliable, maintainable systems that scale effectively. My experience spans the entire development lifecycle, from initial architecture design to production deployment and ongoing maintenance. I'm particularly passionate about:
+
+- **Infrastructure Automation**: Eliminating manual processes through code
+- **Performance Optimization**: Building efficient, high-performing applications
+- **Security Best Practices**: Implementing secure-by-design principles
+- **Knowledge Sharing**: Mentoring and contributing to technical communities
+
+## Let's Connect
+
+I'm always interested in discussing computer science topics, DevOps practices, and collaborative opportunities. Whether you're working on infrastructure challenges, full-stack development, or exploring new technologies, I'd love to connect and share insights.
+
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/alexandru-constantin-cardas-b40395150/)**
+
+---
+
+*"The best way to predict the future is to implement it."*

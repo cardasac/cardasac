@@ -55,4 +55,4 @@ I'm always interested in discussing computer science topics, DevOps practices, a
 
 ---
 
-*"The best way to predict the future is to implement it."*
+*"Technology is best when it brings people together."* - Matt Mullenweg

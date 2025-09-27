@@ -19,22 +19,23 @@ Welcome to my GitHub profile. I'm a passionate DevOps engineer with extensive fu
 ## Technical Expertise
 
 ### DevOps & Infrastructure
-- **Infrastructure as Code**: HashiCorp Terraform, Ansible
+- **Infrastructure as Code**: HashiCorp Terraform, AWS CDK, Ansible
 - **Container Orchestration**: Docker, Kubernetes
-- **Cloud Platforms**: AWS, Azure, GCP
+- **Cloud Platforms**: AWS (primary), Azure (identity & device management), GCP (APIs, BigQuery, credential services)
 - **CI/CD**: Jenkins, GitLab CI, GitHub Actions
 - **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Security & Auditing**: Security assessments, compliance auditing, vulnerability management
 
 ### Development Stack
-- **Frontend**: HTML5, CSS3, Sass, JavaScript, React
-- **Backend**: Node.js, Deno, GraphQL
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Static Site Generators**: Gatsby, Astro
+- **Frontend**: HTML5, CSS3, TailwindCSS, JavaScript, React, Next.js
+- **Backend**: Python (Flask, FastAPI), Node.js, Deno, GraphQL
+- **Databases**: PostgreSQL, MongoDB, Neo4j
+- **Static Site Generators**: Astro
 - **Version Control**: Git, GitHub
 
 ### Automation & Scripting
 - **Languages**: Python, Bash, JavaScript, TypeScript
-- **Configuration Management**: Ansible, Chef
+- **Configuration Management**: Ansible
 - **Monitoring & Alerting**: Custom scripts, API integrations
 
 ## Professional Approach
@@ -50,7 +51,7 @@ I believe in creating reliable, maintainable systems that scale effectively. My 
 
 I'm always interested in discussing computer science topics, DevOps practices, and collaborative opportunities. Whether you're working on infrastructure challenges, full-stack development, or exploring new technologies, I'd love to connect and share insights.
 
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/alexandru-constantin-cardas-b40395150/)**
+**[Connect with me on LinkedIn](https://ie.linkedin.com/in/alexandru-cardas)**
 
 ---
 

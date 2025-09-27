@@ -2,7 +2,7 @@
 
 ## DevOps Engineer | Full-Stack Developer
 
-Welcome to my GitHub profile. I'm a passionate DevOps engineer with extensive full-stack development experience, dedicated to bridging the gap between development and operations through automation, scalable infrastructure, and efficient deployment practices.
+Welcome to my GitHub profile. I'm a passionate DevOps engineer with extensive full-stack development experience and a strong background in security and auditing. I'm dedicated to bridging the gap between development and operations through automation, scalable infrastructure, and efficient deployment practices.
 
 ## Current Focus
 
